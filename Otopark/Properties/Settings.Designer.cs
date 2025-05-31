@@ -27,7 +27,7 @@ namespace Otopark.Properties {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
         [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-OPS7O16C\\SQLEXPRESS;Initial Catalog=OtoparkDb;Integrated Secur" +
-            "ity=True")]
+            "ity=False")]
         public string Setting {
             get {
                 return ((string)(this["Setting"]));

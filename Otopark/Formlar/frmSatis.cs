@@ -243,6 +243,11 @@ namespace Otopark.Formlar
             dataGridView1.DataSource = liste;
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
 
